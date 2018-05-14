@@ -1,0 +1,15 @@
+This is a dummy version of the secure development package (SECDEV) used to
+create secured images for secure TI devices.
+
+This project does *not* actually sign/encrypt images. This is only meant for
+development testing when the real SECDEV tools package is not available.
+
+The real tools used to generate boot images for secure devices can be
+downloaded from:
+
+	http://www.ti.com/mysecuresoftware (login required)
+
+The secure development package is access controlled due to NDA and export
+control restrictions. Access must be requested and granted by TI before the
+package is viewable and downloadable. Contact TI, either online or by way
+of a local TI representative, to request access.
